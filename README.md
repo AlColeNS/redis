@@ -1,0 +1,2 @@
+# redis
+Exercise Redis features
