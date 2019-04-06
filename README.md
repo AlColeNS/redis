@@ -1,6 +1,6 @@
 # Redis Challenge
 
-The goal of this challenge is to download the latest Redis release, build it locally, experiment with different cluster configurations and exercise the data structure features.
+The goal of this challenge was to download the latest Redis release, build it locally, experiment with different cluster configurations and exercise the data structure features.
 
 
 ### OSS Community Distribution
@@ -21,7 +21,7 @@ $ $ cp src/{redis-benchmark,redis-check-aof,redis-check-rdb,redis-cli,redis-serv
 
 ### Redis Cluster with 2 Master and 2 Replica Nodes
 
-The next goal was to create a Redis Cluster with 2 Master and Replica nodes, require password for authentication and enable RDB and AOF persistence.
+The next goal was to create a Redis Cluster with 2 Master and Replica nodes, require a password for authentication and enable RDB and AOF persistence.
 
 To accomplish this, I copied the default _redis.conf_ to create the following configuration files:
 
