@@ -1,0 +1,14 @@
+{
+ "name": [
+  "pork"
+ ],
+ "vegetarian": [
+  false
+ ],
+ "calories": [
+  800
+ ],
+ "type": [
+  "MEAT"
+ ]
+}

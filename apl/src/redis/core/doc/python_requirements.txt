@@ -1,0 +1,7 @@
+#
+# Example PIP Command: pip3 install -r doc/python_requirements.txt
+#
+csv
+json
+redis
+configparser

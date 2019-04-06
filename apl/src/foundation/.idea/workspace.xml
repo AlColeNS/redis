@@ -1,0 +1,661 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4eca31e6-9e32-455a-95dc-7f7dd499f238" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../../README.md" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/nridge/foundation/io/DataDocJSON.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="17" column="3" lean-forward="true" selection-end-line="17" selection-end-column="3" />
+              <folding>
+                <element signature="e#0#10116#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>mProperties</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/test/java/com/nridge/foundation/io/DataGridCSVTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/nridge/foundation/data/Data.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/nridge/foundation/data/DataItem.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/nridge/foundation/data/DataDoc.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/nridge/foundation/data/DataGrid.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/nridge/foundation/io/DataGridConsole.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/nridge/foundation/io/DataGridCSV.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/nridge/foundation/io/DataDocJSON.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="$PROJECT_DIR$/../../../../common-shared/maven/.m2/repository" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../../common-shared/dev-tool/apache-maven-3.5.4" />
+        <option name="userSettingsFile" value="$PROJECT_DIR$/../../../../common-shared/dev-tool/apache-maven-3.5.4/conf/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="939" />
+    <option name="y" value="45" />
+    <option name="width" value="1610" />
+    <option name="height" value="1230" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="foundation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="foundation" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="foundation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="foundation" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="foundation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="foundation" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="foundation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="foundation" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="foundation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="foundation" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="foundation" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="foundation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="foundation" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="foundation" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="foundation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="foundation" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="foundation" type="462c0819:PsiDirectoryNode" />
+              <item name="io" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.DataGridCSVTest">
+    <configuration name="DataDocTest" type="JUnit" factoryName="JUnit">
+      <module name="foundation" />
+      <option name="PACKAGE_NAME" value="com.nridge.foundation.data" />
+      <option name="MAIN_CLASS_NAME" value="com.nridge.foundation.data.DataDocTest" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DataGridCSVTest" type="JUnit" factoryName="JUnit">
+      <module name="foundation" />
+      <option name="PACKAGE_NAME" value="com.nridge.foundation.io" />
+      <option name="MAIN_CLASS_NAME" value="com.nridge.foundation.io.DataGridCSVTest" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DataGridTest" type="JUnit" factoryName="JUnit">
+      <module name="foundation" />
+      <option name="PACKAGE_NAME" value="com.nridge.foundation.data" />
+      <option name="MAIN_CLASS_NAME" value="com.nridge.foundation.data.DataGridTest" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DataItemTest" type="JUnit" factoryName="JUnit">
+      <module name="foundation" />
+      <option name="PACKAGE_NAME" value="com.nridge.foundation.data" />
+      <option name="MAIN_CLASS_NAME" value="com.nridge.foundation.data.DataItemTest" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_regexPattern" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Twisted Trial">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.DataItemTest" />
+      <item itemvalue="JUnit.DataDocTest" />
+      <item itemvalue="JUnit.DataGridTest" />
+      <item itemvalue="JUnit.DataGridCSVTest" />
+    </list>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../ml/kaggle/learn01/hello-world" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../ml/kaggle/learning02/hello-world" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../ml/kaggle/learning03/hello-spark" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4eca31e6-9e32-455a-95dc-7f7dd499f238" name="Default Changelist" comment="" />
+      <created>1553808734698</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1553808734698</updated>
+      <workItem from="1553808736689" duration="6853000" />
+      <workItem from="1553821075344" duration="339000" />
+      <workItem from="1554135272849" duration="1599000" />
+      <workItem from="1554218446738" duration="13077000" />
+      <workItem from="1554301676496" duration="516000" />
+      <workItem from="1554303851178" duration="71000" />
+      <workItem from="1554303934578" duration="138000" />
+      <workItem from="1554576329794" duration="281000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="DataGridCSVTest - 2019.03.28 at 18h 34m 21s.xml">
+      <configuration name="DataGridCSVTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DataGridCSVTest - 2019.03.28 at 18h 35m 34s.xml">
+      <configuration name="DataGridCSVTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DataGridCSVTest - 2019.03.28 at 18h 52m 57s.xml">
+      <configuration name="DataGridCSVTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DataGridCSVTest - 2019.03.28 at 18h 54m 19s.xml">
+      <configuration name="DataGridCSVTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DataGridCSVTest - 2019.03.28 at 18h 55m 55s.xml">
+      <configuration name="DataGridCSVTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DataGridCSVTest - 2019.03.28 at 19h 03m 07s.xml">
+      <configuration name="DataGridCSVTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DataGridCSVTest - 2019.03.28 at 19h 03m 59s.xml">
+      <configuration name="DataGridCSVTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DataGridCSVTest - 2019.03.28 at 19h 05m 27s.xml">
+      <configuration name="DataGridCSVTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DataGridCSVTest - 2019.03.28 at 19h 11m 50s.xml">
+      <configuration name="DataGridCSVTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DataGridCSVTest - 2019.03.28 at 19h 12m 16s.xml">
+      <configuration name="DataGridCSVTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="22874000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="939" y="45" width="1610" height="1230" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25765306" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Learn" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3994755" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="11" />
+      <window_info anchor="bottom" id="Messages" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="SciView" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/data/HR-Records.csv">
+      <provider selected="true" editor-type-id="csv-text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="13" selection-start-line="16" selection-start-column="4" selection-end-line="21" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/nridge/foundation/io/DataGridCSVTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1071">
+          <caret line="93" column="72" selection-start-line="91" selection-start-column="8" selection-end-line="93" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/nridge/foundation/data/Data.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="42" column="40" selection-start-line="42" selection-start-column="40" selection-end-line="42" selection-end-column="40" />
+          <folding>
+            <element signature="e#1450#1490#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="102" column="66" lean-forward="true" selection-start-line="102" selection-start-column="7" selection-end-line="102" selection-end-column="66" />
+          <folding>
+            <element signature="e#5748#5749#0" expanded="true" />
+            <element signature="e#5784#5785#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/nridge/foundation/data/DataItem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17034">
+          <caret line="1111" selection-start-line="1111" selection-end-line="1111" />
+          <folding>
+            <element signature="e#1694#1702#0" expanded="true" />
+            <element signature="e#4535#4536#0" expanded="true" />
+            <element signature="e#4569#4570#0" expanded="true" />
+            <element signature="e#4738#4739#0" expanded="true" />
+            <element signature="e#4779#4780#0" expanded="true" />
+            <element signature="e#4818#4819#0" expanded="true" />
+            <element signature="e#4853#4854#0" expanded="true" />
+            <element signature="e#4909#4910#0" expanded="true" />
+            <element signature="e#4952#4953#0" expanded="true" />
+            <element signature="e#5309#5310#0" expanded="true" />
+            <element signature="e#5341#5342#0" expanded="true" />
+            <element signature="e#5524#5525#0" expanded="true" />
+            <element signature="e#5561#5562#0" expanded="true" />
+            <element signature="e#5602#5603#0" expanded="true" />
+            <element signature="e#5641#5642#0" expanded="true" />
+            <element signature="e#5699#5700#0" expanded="true" />
+            <element signature="e#5740#5741#0" expanded="true" />
+            <element signature="e#6111#6112#0" expanded="true" />
+            <element signature="e#6140#6141#0" expanded="true" />
+            <element signature="e#6407#6408#0" expanded="true" />
+            <element signature="e#6440#6441#0" expanded="true" />
+            <element signature="e#6793#6794#0" expanded="true" />
+            <element signature="e#6826#6827#0" expanded="true" />
+            <element signature="e#6882#6883#0" expanded="true" />
+            <element signature="e#6921#6922#0" expanded="true" />
+            <element signature="e#7289#7290#0" expanded="true" />
+            <element signature="e#7317#7318#0" expanded="true" />
+            <element signature="e#7479#7480#0" expanded="true" />
+            <element signature="e#7508#7509#0" expanded="true" />
+            <element signature="e#16009#16010#0" expanded="true" />
+            <element signature="e#16039#16040#0" expanded="true" />
+            <element signature="e#16233#16234#0" expanded="true" />
+            <element signature="e#16300#16301#0" expanded="true" />
+            <element signature="e#16346#16347#0" expanded="true" />
+            <element signature="e#16405#16406#0" expanded="true" />
+            <element signature="e#17370#17371#0" expanded="true" />
+            <element signature="e#17411#17412#0" expanded="true" />
+            <element signature="e#18334#18335#0" expanded="true" />
+            <element signature="e#18365#18366#0" expanded="true" />
+            <element signature="e#20565#20566#0" expanded="true" />
+            <element signature="e#20611#20612#0" expanded="true" />
+            <element signature="e#20662#20663#0" expanded="true" />
+            <element signature="e#20707#20708#0" expanded="true" />
+            <element signature="e#25749#25750#0" expanded="true" />
+            <element signature="e#25797#25798#0" expanded="true" />
+            <element signature="e#25996#25997#0" expanded="true" />
+            <element signature="e#26037#26038#0" expanded="true" />
+            <element signature="e#26148#26149#0" expanded="true" />
+            <element signature="e#26183#26184#0" expanded="true" />
+            <element signature="e#32505#32506#0" expanded="true" />
+            <element signature="e#32554#32555#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/nridge/foundation/data/DataDoc.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="28" column="2" selection-start-line="28" selection-start-column="2" selection-end-line="28" selection-end-column="2" />
+          <folding>
+            <element signature="e#1406#1407#0" expanded="true" />
+            <element signature="e#1427#1428#0" expanded="true" />
+            <element signature="e#2888#2889#0" expanded="true" />
+            <element signature="e#2907#2908#0" expanded="true" />
+            <element signature="e#3233#3234#0" expanded="true" />
+            <element signature="e#3253#3254#0" expanded="true" />
+            <element signature="e#3233#3234#0" expanded="true" />
+            <element signature="e#3254#3255#0" expanded="true" />
+            <element signature="e#10547#10548#0" expanded="true" />
+            <element signature="e#10590#10591#0" expanded="true" />
+            <element signature="e#10631#10632#0" expanded="true" />
+            <element signature="e#10674#10675#0" expanded="true" />
+            <element signature="e#10893#10894#0" expanded="true" />
+            <element signature="e#10920#10921#0" expanded="true" />
+            <element signature="e#11038#11039#0" expanded="true" />
+            <element signature="e#11065#11066#0" expanded="true" />
+            <element signature="e#11220#11221#0" expanded="true" />
+            <element signature="e#11249#11250#0" expanded="true" />
+            <element signature="e#12350#12351#0" expanded="true" />
+            <element signature="e#12381#12382#0" expanded="true" />
+            <element signature="e#12949#12950#0" expanded="true" />
+            <element signature="e#12973#12974#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/nridge/foundation/data/DataGrid.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5865">
+          <caret line="366" column="79" selection-start-line="366" selection-start-column="79" selection-end-line="366" selection-end-column="79" />
+          <folding>
+            <element signature="e#1480#1481#0" expanded="true" />
+            <element signature="e#1500#1501#0" expanded="true" />
+            <element signature="e#2477#2478#0" expanded="true" />
+            <element signature="e#2507#2508#0" expanded="true" />
+            <element signature="e#2626#2627#0" expanded="true" />
+            <element signature="e#2648#2649#0" expanded="true" />
+            <element signature="e#6042#6043#0" expanded="true" />
+            <element signature="e#6068#6069#0" expanded="true" />
+            <element signature="e#6209#6210#0" expanded="true" />
+            <element signature="e#6228#6229#0" expanded="true" />
+            <element signature="e#9343#9344#0" expanded="true" />
+            <element signature="e#9384#9385#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/nridge/foundation/io/DataGridConsole.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3247">
+          <caret line="215" column="7" lean-forward="true" selection-start-line="215" selection-start-column="7" selection-end-line="215" selection-end-column="7" />
+          <folding>
+            <element signature="e#6370#6371#0" expanded="true" />
+            <element signature="e#6412#6413#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/nridge/foundation/io/JSONUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="34" column="13" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/nridge/foundation/io/DataGridCSV.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2788">
+          <caret line="199" column="65" selection-start-line="199" selection-start-column="65" selection-end-line="199" selection-end-column="65" />
+          <folding>
+            <element signature="e#1739#1740#0" expanded="true" />
+            <element signature="e#1792#1793#0" expanded="true" />
+            <element signature="e#1891#1892#0" expanded="true" />
+            <element signature="e#1919#1920#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/nridge/foundation/std/BitUtl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="31" column="13" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/nridge/foundation/data/DataItemTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="26" column="13" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/nridge/foundation/data/DataGridTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="34" column="13" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/nridge/foundation/data/DataDocTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="37" column="80" selection-start-line="37" selection-start-column="20" selection-end-line="37" selection-end-column="80" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/nridge/foundation/io/DataDocJSON.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="3" lean-forward="true" selection-end-line="17" selection-end-column="3" />
+          <folding>
+            <element signature="e#0#10116#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>scala-sdk-2.12.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>foundation</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: com.google.code.gson:gson:2.8.5</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
