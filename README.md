@@ -1,6 +1,6 @@
-# Redis Challenge
+# Redis Cluster Feature Exploration
 
-The goal of this challenge was to download the latest Redis release, build it locally, experiment with different cluster configurations and exercise the data structure features.
+The goal of this feature exploration exercise was to download the latest Redis release, build it locally, experiment with different cluster configurations and exercise the data structure features.  Later in in this document you will find code sections focused on exploring standard data structure features with Python and search features with Java.
 
 
 ### OSS Community Distribution
